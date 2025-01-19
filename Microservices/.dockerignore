@@ -1,0 +1,18 @@
+# Node module
+node_modules/
+
+# Logs
+*.log
+
+# Build output
+/dist
+
+# Docker-related files
+docker-compose.override.yml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other unnecessary files
+.env
